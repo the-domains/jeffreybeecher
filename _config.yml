@@ -1,6 +1,6 @@
 name: JeffreyBeecher
 favicon: null
-layout_spectrum: 0.4963850474450737
+layout_spectrum: 1
 typography_spectrum: 0.4627085793763399
 title: Workin Low Notes @SilkRoadProject @TorontoSymphony @the_rcm
 cta:
@@ -23,7 +23,7 @@ color:
     - '#5C6B73'
     - '#253237'
   brandStrength: 0
-  lightness: 0.020168082788586617
+  lightness: 1
   saturation: 0.38009950099512935
   rhythmicContrast: 0.507787843234837
 purpose: []
