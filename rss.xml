@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[@SilkRoadProject]]></title>
-        <description><![CDATA[@SilkRoadProject]]></description>
+        <title><![CDATA[JeffreyBeecher]]></title>
+        <description><![CDATA[JeffreyBeecher]]></description>
         <link>https://thegrid.ai/jeffreybeecher/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 19:31:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2016 20:31:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jeffreybeecher/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -15,10 +15,10 @@
         </item>
         <item>
             <title><![CDATA[Does this fucking thing work???]]></title>
-            <description><![CDATA[<article><h1>Does this fucking thing work???</h1><p>Playing Nina Rota's Divertimento</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/126a3b962a4559ab3cd0cc0b2bdebf2346d0f75c.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Does this fucking thing work???</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/126a3b962a4559ab3cd0cc0b2bdebf2346d0f75c.jpg"></article>]]></description>
             <link>https://thegrid.ai/jeffreybeecher/277737c9-eb6e-41f8-b07d-a886d323a19c/index.html</link>
             <guid isPermaLink="false">277737c9-eb6e-41f8-b07d-a886d323a19c</guid>
-            <pubDate>Sat, 30 Jan 2016 19:24:54 GMT</pubDate>
+            <pubDate>Sat, 30 Jan 2016 20:31:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
